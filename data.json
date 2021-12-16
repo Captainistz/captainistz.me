@@ -1,0 +1,159 @@
+{
+    "name": "Captain Phungpensuk",
+    "landing": {
+        "title": "Hi, I'm Captain.",
+        "subtitles": [
+            "High school student 🎓",
+            "Beginner in ML 🧠",
+            "Exploring NLP 👄",
+            "Interested in engineering ⚙️",
+            "Just getting started 📈",
+            "I like pop music 🎺"
+        ],
+        "professionalDetails": [
+            {
+                "alt": "Captainistz",
+                "icon": "youtube",
+                "link": "https://www.youtube.com/channel/UCICSmAFNdQB7XxZDp15sm7Q"
+            },
+            {
+                "alt": "_cpt",
+                "icon": "instagram",
+                "link": "https://www.instagram.com/captainistz/"
+            },
+            {
+                "alt": "captainistz",
+                "icon": "github",
+                "link": "https://github.com/captainistz"
+            },
+            {
+                "alt": "Email",
+                "icon": "gmail",
+                "link": "mailto:mynameisjeff7614@gmail.com"
+            }
+        ]
+    },
+    "skills": {
+        "Languages known": [
+            "JavaScript",
+            "C",
+            "C++",
+            "Python",
+            "HTML5",
+            "CSS3"
+        ],
+        "Frontend": [
+            "React",
+            "Next.js",
+            "Vue.js",
+            "Nuxt.js",
+            "Vercel",
+            "Material-UI",
+            {
+                "alt": "Tailwind CSS",
+                "icon": "tailwindcss",
+                "bgc": "#06B6D4"
+            }
+        ],
+        "Backend, Database and Cloud": [
+            "Node.js",
+            "Express",
+            "MySQL",
+            "Heroku",
+            "Firebase"
+        ],
+        "Mobile": [
+            {
+                "alt": "React_Native",
+                "icon": "react",
+                "bgc": "#424242"
+            },
+            "Android",
+            "Flutter"
+        ]
+    },
+    "projects": {
+        "baseURI": "https://api.github.com/repos/Captainistz/",
+        "repositories": [
+            "license-plate-detector",
+            "face-recognition",
+            "liarlab",
+            "bantitaxcaptain",
+            "CompHub"
+        ]
+    },
+    "experience": {
+        "Competition Experience": [
+            {
+                "organization": "The 16th Thailand Olympiad in Informatics",
+                "role": "Competitor",
+                "type": "3rd Camper",
+                "days": "3 days",
+                "ins": " -",
+                "startDate": "2020-11-28",
+                "endDate": "2020-12-01",
+                "city": "KKU",
+                "state": "Khon Kaen",
+                "country": "Thailand",
+                "url": "https://www.facebook.com/toi2020.kku",
+                "thumbnail": "/kku.jpg"
+            },
+            {
+                "organization": "Thailand Cyber Top Talent 2021",
+                "role": "Competitor",
+                "type": "Junior",
+                "days": "2 days",
+                "ins": ",",
+                "startDate": "2021-10-23",
+                "endDate": "2021-10-30",
+                "city": "UTD School",
+                "state": "Uttaradit",
+                "country": "Thailand",
+                "url": "https://www.facebook.com/NCSA.Thailand",
+                "thumbnail": "/ncsa.png"
+            }
+        ]
+    },
+    "about": {
+        "description": "I am a High school student who want to apply to Computer Engineering. I would love to talk to you 😘",
+        "picture": "/DSC_9729.jpg",
+        "social": [
+            {
+                "alt": "captainistz",
+                "icon": "instagram",
+                "link": "https://www.instagram.com/captainistz/"
+            },
+            {
+                "alt": "Cap Tainist",
+                "icon": "facebook",
+                "link": "https://www.facebook.com/captainistz/",
+                "bgc": "#1877F2"
+            },
+            {
+                "alt": "_lilcapt#2970",
+                "icon": "discord",
+                "link": "https://discord.com/"
+            }
+        ]
+    },
+    "theme": {
+        "light": {
+            "palette": {
+                "type": "light",
+                "background": {
+                    "paper": "#fff",
+                    "default": "#fafafa"
+                }
+            }
+        },
+        "dark": {
+            "palette": {
+                "type": "dark",
+                "background": {
+                    "paper": "#303030",
+                    "default": "#212121"
+                }
+            }
+        }
+    }
+}
