@@ -11,6 +11,9 @@ export default class MyDocument extends Document {
         <Head>
           <meta charSet='utf-8' />
           {/* PWA primary color */}
+          <meta property="og:image" content="/android-chrome-512x512.png"/>
+          <meta property="og:title"              content="Portfolio of Captainistz" />
+          <meta property="og:description"        content="Portfolio of Captainistz" />
           <meta name="theme-color" content="black" />
           <meta name="description" content={`Portfolio of ${name}`}/>
           <meta name='keywords' content={'Portfolio ' + name + ' skills projects experience resume'} />
